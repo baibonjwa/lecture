@@ -1,0 +1,52 @@
+﻿body
+{
+}
+button, input, select
+{
+    vertical-align: middle;
+}
+button
+{
+    margin-right: 5px;
+    cursor: pointer;
+}
+.btn1
+{
+    padding: 0 6px;
+    font-size: 15px;
+    line-height: 22px;
+    color: #333;
+    border: 1px solid #d9e8f5;
+    background: url(../images/button_bg1.gif) repeat-x;
+    cursor: pointer;
+}
+hr
+{
+    color: #d9e8f5;
+}
+
+.input_on
+{
+    padding: 2px 8px 0pt 3px;
+    border: 2px solid #d9e8f5;
+    background-color: #EEEEEE;
+}
+.input_off
+{
+    padding: 2px 8px 0pt 3px;
+    border: 2px solid #d9e8f5;
+    background-color: #FFF;
+}
+.input_move
+{
+    padding: 2px 8px 0pt 3px;
+    border: 2px solid #d9e8f5;
+    background-color: #EEEEEE;
+}
+.input_out
+{
+    /*height:16px;默认高度*/
+    padding: 2px 8px 0pt 3px;
+    border: 2px solid #d9e8f5;
+    background-color: #FFF;
+}

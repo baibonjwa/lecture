@@ -1,0 +1,427 @@
+﻿
+a
+fjfjjf
+add
+UserRegister
+add
+UserRegister
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+执行AddTask()操作
+TaskByType
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 22:43:10
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 22:44:52
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 22:45:32
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 22:46:12
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 23:18:15
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 23:19:21
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 23:20:49
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 23:21:15
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 23:21:43
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 23:21:45
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 23:21:46
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 23:21:47
+TeacherType
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/21 23:21:47
+TeacherType
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+b
+RecordSystem
+执行AddType()操作 时间：2013/2/22 0:20:40
+TeacherType
+b
+RecordSystem
+add
+UserRegister
+b
+RecordSystem
+执行AddDepartment()操作 时间：2013/2/22 4:37:16
+TeacherType
+b
+RecordSystem
+执行AddDepartment()操作 时间：2013/2/22 4:39:04
+TeacherType
+b
+RecordSystem
+执行AddDepartment()操作 时间：2013/2/22 4:39:37
+TeacherType
+b
+RecordSystem
+执行AddDepartment()操作 时间：2013/2/22 4:40:10
+TeacherType
+b
+RecordSystem
+add
+UserRegister
+b
+RecordSystem
+add
+UserRegister
+b
+RecordSystem
+add
+UserRegister
+b
+RecordSystem
+add
+UserRegister
+b
+RecordSystem
+add
+UserRegister
+b
+RecordSystem
+add
+UserRegister
+b
+RecordSystem
+add
+UserRegister
+b
+RecordSystem
+add
+UserRegister
+执行AddTask()操作
+TaskByType
+执行AddTask()操作
+TaskByType
+执行AddTask()操作
+TaskByType
+执行AddTask()操作
+TaskByType
+b
+RecordSystem
+b
+RecordSystem
+add
+UserRegister
+执行AddTask()操作
+TaskByName
+执行AddTask()操作
+TaskByName
+执行AddTask()操作
+TaskByName
+执行AddTask()操作
+TaskByName
+执行AddRecord()操作 时间：2013/2/23 11:34:15
+RecordSystem
+执行AddDepartment()操作 时间：2013/2/23 11:34:15
+TeacherType
+执行AddRecord()操作 时间：2013/2/23 11:37:10
+RecordSystem
+执行AddRecord()操作 时间：2013/2/23 11:37:10
+RecordSystem
+执行AddRecord()操作 时间：2013/2/23 11:37:29
+RecordSystem
+执行AddRecord()操作 时间：2013/2/23 11:39:51
+RecordSystem
+执行AddRecord()操作 时间：2013/2/23 11:41:06
+RecordSystem
+执行AddRecord()操作 时间：2013/2/23 11:41:06
+RecordSystem
+执行AddRecord()操作 时间：2013/2/23 11:41:52
+RecordSystem
+执行AddRecord()操作 时间：2013/2/23 11:41:52
+RecordSystem
+执行AddRecord()操作 时间：2013/2/23 11:43:39
+RecordSystem
+执行AddClass()操作 时间：2013/2/23 11:43:39
+Class
+执行AddRecord()操作 时间：2013/2/23 11:44:28
+RecordSystem
+执行AddClass()操作 时间：2013/2/23 11:44:28
+Class
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013/2/23 12:51:20
+RecordSystem
+执行AddClass()操作 时间：2013/2/23 12:51:20
+Class
+执行AddRecord()操作 时间：2013/2/24 14:14:00
+RecordSystem
+执行AddRecord()操作 时间：2013/2/24 14:24:51
+RecordSystem
+add
+UserRegister
+执行AddRecord()操作 时间：2013/2/24 19:23:14
+RecordSystem
+执行AddRecord()操作 时间：2013/2/24 19:26:11
+RecordSystem
+执行AddRecord()操作 时间：2013/2/24 19:28:53
+RecordSystem
+执行AddClass()操作 时间：2013/2/25 11:00:05
+Class
+执行AddClass()操作 时间：2013/2/25 15:53:01
+Class
+执行AddRecord()操作 时间：2013/2/27 18:37:19
+RecordSystem
+执行AddRecord()操作 时间：2013/2/27 20:58:30
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 13:20:49
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 13:22:15
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 16:08:47
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 16:10:53
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 16:12:46
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 16:21:36
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 17:43:58
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 17:44:40
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 17:53:57
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 18:09:16
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 18:36:27
+RecordSystem
+执行AddRecord()操作 时间：2013/3/2 18:39:23
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013/3/3 9:04:16
+RecordSystem
+sdf
+sdf
+执行AddRecord()操作 时间：2013/3/3 9:59:07
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013-03-03 14:35:20
+RecordSystem
+执行AddRecord()操作 时间：2013-03-03 15:03:27
+RecordSystem
+执行AddRecord()操作 时间：2013-03-03 15:13:09
+RecordSystem
+执行AddRecord()操作 时间：2013-03-03 19:42:47
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013-03-04 01:28:04
+RecordSystem
+sdf
+sdf
+执行AddRecord()操作 时间：2013/3/5 7:12:55
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013/3/5 9:12:12
+RecordSystem
+执行AddRecord()操作 时间：2013-03-05 15:17:10
+RecordSystem
+sdf
+sdf
+执行AddRecord()操作 时间：2013-03-10 19:35:23
+RecordSystem
+执行AddRecord()操作 时间：2013-03-10 19:38:50
+RecordSystem
+执行AddRecord()操作 时间：2013-03-10 19:39:35
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013-03-11 10:06:57
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013-03-17 22:29:42
+RecordSystem
+执行AddRecord()操作 时间：2013/3/22 1:18:54
+RecordSystem
+执行AddRecord()操作 时间：2013/3/22 2:59:01
+RecordSystem
+执行AddRecord()操作 时间：2013/3/31 17:14:09
+RecordSystem
+执行AddRecord()操作 时间：2013/3/31 17:18:16
+RecordSystem
+sdf
+sdf
+执行AddRecord()操作 时间：2013/3/31 18:04:56
+RecordSystem
+sdf
+sdf
+执行AddRecord()操作 时间：2013/3/31 19:12:51
+RecordSystem
+sdf
+sdf
+执行AddRecord()操作 时间：2013/3/31 21:19:43
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013/4/9 21:20:09
+RecordSystem
+执行AddRecord()操作 时间：2013/4/12 13:58:16
+RecordSystem
+执行AddRecord()操作 时间：2013/4/12 14:58:23
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013/4/12 15:53:17
+RecordSystem
+执行AddRecord()操作 时间：2013/4/12 15:55:16
+RecordSystem
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+执行AddRecord()操作 时间：2013/7/23 15:53:06
+RecordSystem

@@ -1,0 +1,16 @@
+K:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\WebService.dll
+K:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\WebService.pdb
+K:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\LitJson.dll
+K:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\Newtonsoft.Json.dll
+K:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\Newtonsoft.Json.pdb
+K:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\Newtonsoft.Json.xml
+K:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\obj\Debug\ResolveAssemblyReference.cache
+K:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\obj\Debug\WebService.dll
+K:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\obj\Debug\WebService.pdb
+J:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\WebService.dll
+J:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\WebService.pdb
+J:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\Newtonsoft.Json.pdb
+J:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\bin\Newtonsoft.Json.xml
+J:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+J:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\obj\Debug\WebService.dll
+J:\1-我的项目\ASP.NET\已完成的项目\听课系统\7.网站\lecture\lecture\WebService\WebService\obj\Debug\WebService.pdb
